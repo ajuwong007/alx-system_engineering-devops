@@ -1,7 +1,3 @@
-/*
- * File: 102-zombie.c
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -24,7 +20,6 @@ int infinite_while(void)
 
 /**
  * main - Creates five zombie processes.
- *
  * Return: Always 0.
  */
 int main(void)
